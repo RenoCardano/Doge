@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Doge pool
 
-You can use the [editor on GitHub](https://github.com/RenoCardano/Doge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Pool for Doge Lovers!! We like our fun and we will never let you down. Doge crew , here we go!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SERVER INFORMATION
+At Doge Pool is operated on Digital Ocean Droplets offering 99.99% server uptime. Our Core serveur is located in Germany and is protected by two proxy relays located in France (Lille) and England (London). All servers are running on Ubuntu 20.04. We love the cardano community and we are keen to work toward increasing decentralisation and cardano 
 
-### Markdown
+### Fees and pleage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We provide a substantial pledge of 150.000 ADA to ensure getting rewards and we propose low fees 1.5%.
 
-```markdown
-Syntax highlighted code block
+### STAKE POOL INFORMATION
 
-# Header 1
-## Header 2
-### Header 3
+Ticker: [S4S]
+Name: Staking for Science
 
-- Bulleted
-- List
+### SUPPORT AND CONTACT
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenoCardano/Doge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For all your question and proposition please write to stakinglillois@gmail.com and we’ll help you sort it out. We will come back to you in a maximum of 2 hours
+### 
+![u2exlarge20](https://renocardano.github.io/Doge/maxresdefault.jpg)
