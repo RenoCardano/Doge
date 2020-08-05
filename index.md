@@ -1,7 +1,7 @@
 The Doge pool : A blessing in disguise
 
 Doge Lovers, here we go!
-(https://renocardano.github.io/Doge/doge_2.png)
+![u2exlarge20](https://renocardano.github.io/Doge/doge_2.png)
 
 ### SERVER INFORMATION
 Dogee Pool is operated on Digital Ocean Droplets offering 99.99% server uptime. Our core server is located in Germany and is protected by two proxy relays located in France (Lille) and England (London). All servers are running on Ubuntu 20.04. We love the Cardano community and we are keen to work toward increasing decentralisation and Cardano awareness.
